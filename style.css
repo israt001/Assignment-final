@@ -135,10 +135,10 @@ padding-top: 140px;
 .welcome{
     color: #FFF;
     font-family: Merriweather;
-    font-size: 64px;
+    font-size: 50px;
     font-style: normal;
     font-weight: 900;
-    line-height: 88px; /* 137.5% */
+    line-height: 80px;
     letter-spacing: 7.04px;
 }
 
